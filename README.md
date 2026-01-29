@@ -1,5 +1,5 @@
 ## 2603-KAWAKATSU.Ryota  
-2026年3月卒業　川勝涼太
+
 
 ## Overview
 This repository provides a collection of Proof of Concept (PoC) environments for vulnerabilities reported in **Laravel** and **Livewire** between 2024 and 2025.  
